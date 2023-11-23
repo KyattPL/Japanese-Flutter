@@ -1,11 +1,11 @@
 {
-    "name": "spanish_app",
-    "short_name": "spanish_app",
+    "name": "japanese_app",
+    "short_name": "japanese_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "App for learning Spanish",
+    "description": "App for learning Japanese",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
